@@ -52,7 +52,7 @@ function audio() {
 }
 
 solicitarAudio(
-  "https://s3-us-west-2.amazonaws.com/s.cdpn.io/222579/Kevin_MacLeod_-_Camille_Saint-Sans_Danse_Macabre_-_Finale.mp3"
+  "https://stream-57.zeno.fm/ivarge8h6egvv?zs=2Rf8KwPBQE23E1Li6p_2Zg&aw_0_req_lsid=915260e2541aaa9a3a52641030eb756e&acu-uid=743601003659&dyn-uid=&an-uid=7172750696595090428&mm-uid=899b63ed-26ee-4c00-84ed-2215e29e8a36&triton-uid=cookie%3Ac96c88dc-805f-44d6-b532-afbba55d00a7&amb-uid=3057931967205922225"
 );
 
 // Utiliza el evento click para iniciar o detener la reproducción
