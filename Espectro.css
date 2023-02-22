@@ -1,0 +1,3 @@
+html,body{height:100vh; background:#d9d9d9; }
+#boton,canvas{margin:1em auto; display:block;}
+canvas{border:1px solid #bbb;}
